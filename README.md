@@ -2,11 +2,15 @@
 
 ## How to Run
 
- **Open MATLAB and set the working directory to the project folder:**
- ```matlab
-   cd('D:\UAV Project\PathPlanning-Minh')
- ```
-
+**To get started, clone this repository to your local machine:**
+```bash
+git clone https://github.com/<your-username>/Path_Planning_test.git
+cd Path_Planning_test
+```
+**Open MATLAB and set the working directory to the project folder and add all project folders automatically:**
+```matlab
+addpath(genpath(pwd));
+```
 **Run the demo script:**
 ```matlab
 run('run/rrtstar_run.m')
