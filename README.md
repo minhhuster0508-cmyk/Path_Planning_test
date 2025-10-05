@@ -12,7 +12,7 @@ addpath(genpath(pwd));
 ```
 **Run the demo script:**
 ```matlab
-run('run/rrtstar.m')
+run('main_rrtstar.m')
 ```
 
 **The script will:**
