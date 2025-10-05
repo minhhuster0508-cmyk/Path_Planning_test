@@ -5,7 +5,6 @@
 **To get started, clone this repository to your local machine:**
 ```bash
 git clone https://github.com/minhhuster0508-cmyk/Path_Planning_test.git
-cd Path_Planning_test
 ```
 **Open MATLAB and set the working directory to the project folder and add all project folders automatically:**
 ```matlab
